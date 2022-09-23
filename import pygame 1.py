@@ -2,7 +2,7 @@
 import pygame
 import random
 
-FPS=60
+FPS=60 #NMSL
 WIDTH=500
 HEIGHT=600
 
